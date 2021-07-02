@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/01 14:32:06.000.231,=C:\Users\Fabiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 14:32:57.000.183,C:\Users\Fabiano\Documents\Teste WK\Pedidos.pas=C:\Users\Fabiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 14:32:57.000.183,C:\Users\Fabiano\Documents\Teste WK\Pedidos.dfm=C:\Users\Fabiano\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/01 14:33:16.000.132,C:\Users\Fabiano\Documents\Teste WK\WKTeste.dproj=C:\Users\Fabiano\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/01 20:24:37.000.957,=C:\Users\Fabiano\Documents\Teste WK\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 20:26:08.000.025,C:\Users\Fabiano\Documents\Teste WK\Unit1.pas=C:\Users\Fabiano\Documents\Teste WK\DataModule.pas</Transaction>
+    <Transaction>2021/07/01 20:26:08.000.025,C:\Users\Fabiano\Documents\Teste WK\Unit1.dfm=C:\Users\Fabiano\Documents\Teste WK\DataModule.dfm</Transaction>
+    <Transaction>2021/07/01 22:11:51.000.975,=C:\Users\Fabiano\Documents\Teste WK\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 22:21:07.000.231,C:\Users\Fabiano\Documents\Teste WK\Unit1.pas=C:\Users\Fabiano\Documents\Teste WK\oPedido.pas</Transaction>
+    <Transaction>2021/07/02 09:19:25.131,=C:\Users\Fabiano\Documents\Teste WK\Unit1.pas</Transaction>
+    <Transaction>2021/07/02 09:21:59.326,C:\Users\Fabiano\Documents\Teste WK\AlteraProduto.pas=C:\Users\Fabiano\Documents\Teste WK\Unit1.pas</Transaction>
+    <Transaction>2021/07/02 09:21:59.326,C:\Users\Fabiano\Documents\Teste WK\AlteraProduto.dfm=C:\Users\Fabiano\Documents\Teste WK\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
